@@ -105,8 +105,7 @@ body{
   color: white;
   margin-left: 117px;
   margin-bottom: 67px;
-  position: sticky;
-  top: 38px;
+  margin-top: 38px;
 }
 
 .titles{
