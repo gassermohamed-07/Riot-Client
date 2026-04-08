@@ -1,11 +1,10 @@
 body{
-  background-color: white;
   font-family: Inter;
 }
 .launcher-home{
   display: flex;
   background-color: #0A0A0A;
-  width: 1940px;
+  width: 100%;
   border-radius: 11px;
 }
 
